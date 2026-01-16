@@ -2,15 +2,6 @@
 
 Ce projet a pour objectif de concevoir et d'implémenter une chaîne de traitement de données (pipeline Big Data) pour analyser les données climatiques historiques de la ville de Dakar. La solution couvre l'ensemble du cycle de vie de la donnée : de l'ingestion à la visualisation, en passant par le stockage et le traitement.
 
-## 👥 Équipe du Projet
-
-Ce projet a été réalisé en mars 2023 à l'ESMT, sous la supervision de M. Jean-Marie PREIRA.
-
-* **Membres :**
-* SANOGO Steve 
-* BAZIE Dinin Lothaire 
-
-
 ## 🏗️ Architecture Technique
 
 La solution repose sur une architecture Big Data intégrant les technologies suivantes:
@@ -99,3 +90,10 @@ Le tableau de bord Grafana permet d'observer les tendances climatiques suivantes
 * Cours Plateforme Big Data par Jean-Marie Preira.
 * Documentation Open-Meteo.
 * Documentation Elastic/Filebeat.
+
+## 👥 Équipe du Projet
+Ce projet a été réalisé en mars 2023 à l'ESMT, sous la supervision de M. Jean-Marie PREIRA.
+
+* **Membres :**
+* SANOGO Steve 
+* BAZIE Dinin Lothaire 
