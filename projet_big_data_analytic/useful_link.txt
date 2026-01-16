@@ -1,0 +1,8 @@
+open-meteo
+https://open-meteo.com/en/docs/historical-weather-api
+
+WMO code
+https://www.nodc.noaa.gov/archive/arc0021/0002199/1.1/data/0-data/HTML/WMO-CODE/WMO4677.HTM
+
+Filebeat documentation
+https://www.elastic.co/guide/en/beats/filebeat/8.6/configuration-filebeat-options.html
